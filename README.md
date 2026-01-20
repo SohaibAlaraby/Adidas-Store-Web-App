@@ -29,7 +29,7 @@ This project was created for **practice and learning**, with a focus on responsi
 
 ## 📷 Preview
 
-<!-- Add screenshots here -->
+<img src="Screenshot Landing Page.png"></img>
 
 ---
 
